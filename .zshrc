@@ -106,6 +106,8 @@ alias g--="git checkout --"
 alias ras="rails server"
 alias rc="rails console"
 
+alias s_migrate="rake db:migrate db:test:prepare"
+
 #===================
 # Zeus Aliases
 #===================
