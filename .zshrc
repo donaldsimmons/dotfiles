@@ -92,11 +92,13 @@ alias ga="git add"
 alias gb="git branch"
 alias gc="git commit -m"
 alias gco="git checkout"
+alias gcp="git cherry-pick"
 alias gd="git diff"
 alias gdc="git diff --cached"
 alias gf="git fetch"
 alias gl="git log"
 alias gsh="git stash"
+alias gsha="git stash apply"
 alias gst="git status"
 alias g--="git checkout --"
 
@@ -105,6 +107,7 @@ alias g--="git checkout --"
 #===================
 alias ras="rails server"
 alias rc="rails console"
+alias brc="./bin/rails console"
 
 alias s_migrate="rake db:migrate db:test:prepare"
 
