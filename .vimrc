@@ -34,6 +34,7 @@ Bundle "gmarik/vundle"
 Bundle 'rking/ag.vim'
 Bundle 'Lokaltog/vim-easymotion'
 Bundle 'scrooloose/syntastic'
+Bundle 'slim-template/vim-slim'
 
 "   ====== End Vundle Config =====
 

@@ -125,6 +125,11 @@ alias zstart="zeus start"
 alias zt="zeus test"
 
 #===================
+# HPB Aliases
+#===================
+alias fs="foreman start"
+
+#===================
 # MySQL Aliases
 #===================
 mysqldb() {
