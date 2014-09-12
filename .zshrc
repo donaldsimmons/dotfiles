@@ -109,7 +109,7 @@ alias ras="rails server"
 alias rc="rails console"
 alias brc="./bin/rails console"
 
-alias s_migrate="rake db:migrate db:test:prepare"
+alias migrate="rake db:migrate db:test:prepare"
 
 #===================
 # Zeus Aliases
