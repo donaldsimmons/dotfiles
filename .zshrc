@@ -100,6 +100,7 @@ alias gl="git log"
 alias gsh="git stash"
 alias gsha="git stash apply"
 alias gst="git status"
+alias g-b="git checkout -b"
 alias g--="git checkout --"
 
 #===================
