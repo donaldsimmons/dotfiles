@@ -131,6 +131,12 @@ alias zt="zeus test"
 alias fs="foreman start"
 
 #===================
+# Postgres Aliases
+#===================
+alias pg_start="pg_ctl -D /usr/local/var/postgres start"
+alias pg_stop="pg_ctl -D /usr/local/var/postgres stop"
+
+#===================
 # MySQL Aliases
 #===================
 mysqldb() {
