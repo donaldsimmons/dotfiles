@@ -91,6 +91,7 @@ alias ts="tmux switch -t"
 alias ga="git add"
 alias gb="git branch"
 alias gc="git commit -m"
+alias gbd="git branch -D"
 alias gco="git checkout"
 alias gcp="git cherry-pick"
 alias gd="git diff"
@@ -129,6 +130,9 @@ alias zt="zeus test"
 # HPB Aliases
 #===================
 alias fs="foreman start"
+
+alias ssh_staging="ssh trey@10.200.0.1"
+alias ssh_qa="ssh trey@10.200.0.4"
 
 #===================
 # Postgres Aliases
