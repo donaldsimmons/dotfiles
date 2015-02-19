@@ -81,6 +81,7 @@ alias df="df -h"
 #===================
 alias ta="tmux attach -t"
 alias td="tmux detach"
+alias tk="tmux kill-session -t"
 alias tl="tmux list-sessions"
 alias tn="tmux new -s"
 alias ts="tmux switch -t"
