@@ -90,6 +90,7 @@ alias ts="tmux switch -t"
 #	 Git Aliases
 #===================
 alias ga="git add"
+alias gaA="git add -A"
 alias gb="git branch"
 alias gc="git commit -m"
 alias gbd="git branch -D"
