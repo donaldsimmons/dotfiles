@@ -55,6 +55,7 @@ export PATH=/usr/local/shar/npm/bin:$PATH
 #	 ALIASES
 #====================================
 alias ll="ls -lah"
+alias ldt="ls -ld .*"
 
 alias ..="cd .."
 alias ...="cd ../.."
