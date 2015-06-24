@@ -64,6 +64,7 @@ alias trey="cd ~"
 alias hpb="cd ~/Code/hpb"
 alias skyo="cd ~/Code/rentwb"
 alias sayish="cd ~/Code/sayish"
+alias mustard="cd ~/Code/mustard"
 
 alias vimrc="vim ~/.vimrc"
 alias zshrc="vim ~/.zshrc"
