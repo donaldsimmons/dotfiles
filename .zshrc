@@ -136,10 +136,6 @@ alias zt="zeus test"
 #===================
 alias fs="foreman start"
 
-alias ssh_staging="ssh trey@10.200.0.1"
-alias ssh_qa="ssh trey@10.200.0.4"
-
-alias prod="psql -h 172.24.16.4 -U hpbqa -d hpb"
 
 #===================
 # Postgres Aliases
