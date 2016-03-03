@@ -65,6 +65,7 @@ alias hpb="cd ~/Code/hpb"
 alias skyo="cd ~/Code/rentwb"
 alias sayish="cd ~/Code/sayish"
 alias mustard="cd ~/Code/mustard"
+alias living_spec="cd ~/Documents/wobo/living_spec"
 
 alias vimrc="vim ~/.vimrc"
 alias zshrc="vim ~/.zshrc"
